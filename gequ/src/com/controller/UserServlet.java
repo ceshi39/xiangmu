@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 import com.alibaba.fastjson.JSONObject;
 import com.bean.User;
 import com.dao.UserDao;
-//ceshi
+//ceshifadfas
 public class UserServlet extends HttpServlet {
 	//重写处理请求的方法 service
 	@Override

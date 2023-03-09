@@ -1,5 +1,5 @@
 package com.bean;
-//用户实体类 hahahahah
+//用户实体类 hahahahah fdsaf
 public class User {
 	private int id; //编号
 	private String name; //用户名
